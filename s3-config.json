@@ -1,0 +1,22 @@
+{
+  "identities": [
+    {
+      "name": "me",
+      "credentials": [
+        {
+          "accessKey": "access-key",
+          "secretKey": "secret-key"
+        }
+      ],
+      "actions": [
+        "Admin",
+        "Read",
+        "ReadAcp",
+        "List",
+        "Tagging",
+        "Write",
+        "WriteAcp"
+      ]
+    }
+  ]
+}
